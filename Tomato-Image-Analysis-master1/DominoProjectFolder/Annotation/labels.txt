@@ -1,0 +1,9 @@
+__ignore__
+Ruler
+CD-En-R
+CD-En-U
+CD-Ex-U
+CP-Ex-R
+CP-Ex-U
+L-En-R
+L-Ex-R
